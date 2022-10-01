@@ -1,0 +1,24 @@
+window{
+background-image: url("res/background.jpg");;
+
+background-position: center;
+}
+
+
+#jouer1{
+background-image: url("res/j.PNG");;
+background-position: center;
+
+}
+
+#quitter1{
+
+background-image: url("res/q.PNG");;
+background-position: center;
+
+}
+
+
+
+
+
